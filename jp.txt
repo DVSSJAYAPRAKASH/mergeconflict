@@ -1,4 +1,10 @@
 I am doing great
+<<<<<<< HEAD
 I Live in city2
 I love my country2 
 How about you 
+=======
+I Live in city1
+I love my country2
+How about you
+>>>>>>> 182f04339912a107728280eafdf19d26ee0e88d0
